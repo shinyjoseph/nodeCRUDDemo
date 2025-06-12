@@ -1,0 +1,32 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "es",
+  "dictionary": [
+    {
+      "id": "683eb7714656d14dec918d54",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "phrase1",
+      "createdAt": "June 3, 2025",
+      "translation": {
+        "Maria gave her sister a gift. She was very happy with it": {
+          "value": "María le regaló algo a su hermana.  Ella quedó muy contenta con el regalo."
+        }
+      }
+    },
+    {
+      "id": "683eb6ba4656d14dec9188e9",
+      "context": "",
+      "labels": [],
+      "url": [],
+      "phraseKey": "Phrase1_LLM",
+      "createdAt": "June 3, 2025",
+      "translation": {
+        "Maria gave her sister a gift. She was very happy with it.": {
+          "value": "María le regaló algo a su hermana.  Ella quedó muy contenta con el regalo."
+        }
+      }
+    }
+  ]
+}
